@@ -1,0 +1,6 @@
+torch==2.2.0+cu118
+pytorch-lightning==2.5.1.post0
+numpy==1.26.3
+asteroid==0.7.0
+mamba-ssm==1.2.1
+causal-conv1d==1.2.1
