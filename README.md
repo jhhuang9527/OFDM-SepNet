@@ -29,8 +29,6 @@ The architecture of the proposed OFDM-SepNet as shown is follows.
    ```bash
    python gen_data.py --file_root your/dataset/path/
    ```
-
-   You can also use the already generated dataset directly. Place these dataset in 'datasets/train/'.
   
 # Experiments
 ### Comparison with Wave-U-Net and SepMamba
