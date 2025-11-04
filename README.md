@@ -41,3 +41,7 @@ The architecture of the proposed OFDM-SepNet as shown is follows.
 
 # State
 **Our code is based on [SCSS_OFDMArchitecture](https://github.com/RFChallenge/SCSS_OFDMArchitecture). We are sincerely grateful for the work!**
+
+# Citation
+If you use OFDM-SepNet for your research, please cite:
+
