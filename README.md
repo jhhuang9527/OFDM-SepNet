@@ -47,17 +47,19 @@ If you use OFDM-SepNet for your research, please cite:
 
 @article{Wang_2025,
 
-title={Deep Learning-based OFDM Symbol Separation for Robust Collision-Resistant UANs},
+   title={Deep Learning-based OFDM Symbol Separation for Robust Collision-Resistant UANs},
 
-url={http://dx.doi.org/10.36227/techrxiv.176282173.35814028/v1},
+   url={http://dx.doi.org/10.36227/techrxiv.176282173.35814028/v1},
 
-DOI={10.36227/techrxiv.176282173.35814028/v1},
+   DOI={10.36227/techrxiv.176282173.35814028/v1},
 
-publisher={Institute of Electrical and Electronics Engineers (IEEE)},
+   publisher={Institute of Electrical and Electronics Engineers (IEEE)},
 
-author={Wang, Xingwang and Huang, Junhong and Tu, Jiatong and Sun, Yafeng and Yang, Kun},
+   author={Wang, Xingwang and Huang, Junhong and Tu, Jiatong and Sun, Yafeng and Yang, Kun},
 
-year={2025},
+   year={2025},
 
-month=nov }
+   month=nov
+   
+}
 
