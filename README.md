@@ -45,12 +45,19 @@ The architecture of the proposed OFDM-SepNet as shown is follows.
 # Citation
 If you use OFDM-SepNet for your research, please cite:
 
- @article{Wang_2025,
+@article{Wang_2025,
+
 title={Deep Learning-based OFDM Symbol Separation for Robust Collision-Resistant UANs},
+
 url={http://dx.doi.org/10.36227/techrxiv.176282173.35814028/v1},
+
 DOI={10.36227/techrxiv.176282173.35814028/v1},
+
 publisher={Institute of Electrical and Electronics Engineers (IEEE)},
+
 author={Wang, Xingwang and Huang, Junhong and Tu, Jiatong and Sun, Yafeng and Yang, Kun},
+
 year={2025},
+
 month=nov }
 
